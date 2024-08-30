@@ -1,6 +1,6 @@
 #  Project : Sales Insights of Data Analysis-AtliQ Hardware
 
-![Sales insights AtliQ](https://user-images.githubusercontent.com/118357991/230730818-34393de8-2b5c-46da-83f1-be293b0107b4.png)
+
 
 ## Table of Contents:
 
@@ -234,15 +234,19 @@ Shows visualizations from Sales insights :
 
 | Key Insights |
 | ----------- |
-|C:\Users\USER\OneDrive\Desktop\1.jpg|
+|![1](https://github.com/user-attachments/assets/5f78c71b-9024-48bb-9d69-575f95ffffa8)|
+
+
 
 | Profit Analysis |
 | ----------- |
-|C:\Users\USER\OneDrive\Desktop\2.jpg|
+|![2](https://github.com/user-attachments/assets/dbda644f-e997-4034-b8a2-cb2d01653f4e)|
+
 
 | Profit Analysis |
 | ----------- |
-|C:\Users\USER\OneDrive\Desktop\3.jpg|
+|![3](https://github.com/user-attachments/assets/b46bd264-8248-4a8c-a6b2-a1b7605ecf9a)|
+
 
 ## Tools, Software and Libraries :
 
